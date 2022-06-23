@@ -1,3 +1,4 @@
-# webapp-demo
+# webapp-java-jsp-mysql
 
-A demo web app consisting of jsp, java, spring, hibernate and an mysql database
+A demo web app,front-end and back-end consisting of jsp, java and an mysql database.
+Implemented using standalone servelts, MVC and JDBC.
